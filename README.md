@@ -1,4 +1,4 @@
-larapack
+LaraPack
 ========
 
-Install Laravel without composer
+Install Laravel without Composer
