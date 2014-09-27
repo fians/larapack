@@ -1,4 +1,4 @@
 LaraPack
 ========
 
-Install Laravel without Composer
+Download Laravel without Composer. http://fian.my.id/larapack/
